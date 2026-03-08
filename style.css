@@ -1,0 +1,28 @@
+body{
+font-family: Arial, sans-serif;
+background:#0f172a;
+color:white;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+margin:0;
+}
+
+.container{
+text-align:center;
+}
+
+input{
+padding:10px;
+font-size:16px;
+}
+
+button{
+padding:10px 15px;
+cursor:pointer;
+}
+
+#movieResult{
+margin-top:20px;
+}
